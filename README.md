@@ -1,8 +1,9 @@
-# Imagem Docker para o PHP 7.3
+# Imagem Docker para o PHP 7.3 com OCI8
 
-Imagem Docker para projetos que utilizam o PHP 7.3.18 e o servidor Apache
+Imagem Docker para projetos que utilizam o PHP 7.3.18 com o servidor Apache e a extensão OCI8 para o Oracle habilitada
 
 ## Extensões PHP instaladas e habilitadas
+    - bcmath
     - Core
     - ctype
     - curl
