@@ -33,6 +33,7 @@ Imagem Docker para projetos que utilizam o PHP 7.3.18 com o servidor Apache e a 
     - session
     - SimpleXML
     - soap
+    - sockets
     - sodium
     - SPL
     - sqlite3
